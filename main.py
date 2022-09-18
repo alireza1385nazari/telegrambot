@@ -1,4 +1,3 @@
-from turtle import update
 import api as C
 import responses as R
 from telegram.ext import *
